@@ -41,7 +41,7 @@ Change the TileJSON URL from Maputnik Data Sources to `http://localhost:8080/dat
 git clone https://github.com/MapDev-OSM/mbtiles-custom-style.git
 ```
 
-Save your json style inside `mbtiles-custom-style/build.styles`
+Save your json style inside `mbtiles-custom-style/build/styles`
 Edit `mbtiles-custom-style/src/config.js` to include your custom style
 
 
