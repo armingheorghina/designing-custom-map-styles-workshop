@@ -6,7 +6,7 @@ OpenStreetMap is a collaborative project to create a free editable map of the wo
 ## 1. Download MBTiles
 We have pregenerated vector tiles for Cluj-Napoca city. To genereate your own vector tiles refer to https://github.com/MapDev-OSM/Generating-Vector-Tiles-from-OpenStreetMap-data
 
-You can download pregenerated tiles inside the `./tiles` folder of this repo. -  [Cluj-Napoca vector tiles](./tiles/cluj-napoca.mbtiles)
+You can download pregenerated tiles inside the `./tiles` folder of this repo. -  [Cluj-Napoca vector tiles](./tiles/tiles.mbtiles)
 
 ## 2. Host the tiles on a local server
 
